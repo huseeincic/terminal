@@ -1739,8 +1739,11 @@ placeholders
 platforming
 playsound
 plist
+ploc
 PLOC
+ploca
 PLOCA
+plocm
 PLOCM
 PLOGICAL
 plugin
